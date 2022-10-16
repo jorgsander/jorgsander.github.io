@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jörg Sander"
   avatar           : "myprofilefoto.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a business-minded Machine Learning expert with 5 years of experience implementing AI-enabled solutions in the clinical context. My intellectual curiosity drives me to be a lifelong learner. Throughout my 15+ years of IT consultancy, I particularly enjoyed working in multi-disciplinary teams at the intersection of people and technology. The years of being a Managing Partner at a small HCM IT consulting company taught me how to run a business, explore new commercial prospects and build a successful team. Fascinated by the innovative solutions Artificial Intelligence can offer to businesses and society, I decided to redefine my career and move into academia. After obtaining my PhD I want to explore opportunities where I can combine my strong academic background with my consulting skills to find innovative solutions to challenges in the public/private sector."
   location         : "Amsterdam/The Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=J%C3%B6rg+Sander"
   googlescholar    : "https://scholar.google.com/citations?user=y0AWiJAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5047-9257"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@toologicBV"
+  twitter          : "@toologic"
   vine             :
   weibo            :
   xing             :
